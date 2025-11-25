@@ -62,6 +62,7 @@ sudo systemctl status nginx
 Terminated an instance manually via EC2 console
 Auto Scaling automatically launched a new instance
 ALB continued serving traffic to healthy instance(s) → No downtime
+
 Key Learnings
 *Hands-on experience with EC2, ALB, Target Groups, Auto Scaling, Security Groups, VPC
 *Implemented auto-healing & real-time incident recovery
@@ -74,6 +75,8 @@ Key Learnings
 <img width="1919" height="626" alt="image" src="https://github.com/user-attachments/assets/b6a60a2b-cd70-4fd2-839b-11adf1f99944" />
 <img width="1453" height="787" alt="image" src="https://github.com/user-attachments/assets/31e0aa8a-52a6-4491-9f30-2e4b84ad0fdd" />
 <img width="1904" height="829" alt="image" src="https://github.com/user-attachments/assets/3e0b9bfa-041d-4669-9528-4980787d3b16" />
+<img width="860" height="315" alt="image" src="https://github.com/user-attachments/assets/a8952b64-e6ff-45f6-aa89-b63d60dcb9ea" />
+
 
 
 
