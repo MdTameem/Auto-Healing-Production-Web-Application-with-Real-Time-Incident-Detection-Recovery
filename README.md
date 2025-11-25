@@ -1,4 +1,5 @@
 # Auto-Healing-Production-Web-Application-with-Real-Time-Incident-Detection-Recovery
+
 Deployed a highly available, fault-tolerant web application on AWS simulating a production environment. Implemented auto-healing and real-time incident detection by leveraging AWS Auto Scaling and Load Balancer health checks.
 
 Tools/Technologies: AWS EC2, Launch Template, Auto Scaling Group (ASG), Application Load Balancer (ALB), Target Groups, Security Groups, VPC, Public Subnets, Nginx Web Server, Health Checks
@@ -66,7 +67,8 @@ ALB continued serving traffic to healthy instance(s) → No downtime
 Key Learnings
 *Hands-on experience with EC2, ALB, Target Groups, Auto Scaling, Security Groups, VPC
 *Implemented auto-healing & real-time incident recovery
-
+*Validated production-ready cloud infrastructure workflow
+*Learned end-to-end troubleshooting for health checks, security, and networking.
 
 <img width="1919" height="781" alt="image" src="https://github.com/user-attachments/assets/962c2422-0b1d-40e4-ae3a-eff87eff8b00" />
 <img width="1919" height="649" alt="image" src="https://github.com/user-attachments/assets/9540a3b3-d6bd-4e87-968a-048edb8ebfde" />
@@ -82,6 +84,6 @@ Key Learnings
 
 
 
-Validated production-ready cloud infrastructure workflow
 
-Learned end-to-end troubleshooting for health checks, security, and networking
+
+Learned end-to-end troubleshooting for health
